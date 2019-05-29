@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module sbt.imports="SUB:DOLLARc91c7b493e85e0c16da3.figaroWork, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin.autoImport._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin, sbt._, Keys._, dsl._" sbt.resolvers="https://repo1.maven.org/maven2/|maven|public, file:/Users/Haoyuan/.sbt/preloaded/|maven|local-preloaded, /Users/Haoyuan/.ivy2/cache|ivy|Local cache" type="SBT_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="SBT" linkedProjectId="FigaroWork-build" linkedProjectPath="$MODULE_DIR$/../../project" rootProjectPath="$MODULE_DIR$/../.." />
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../project/target/idea-classes" />
+    <output-test url="file://$MODULE_DIR$/../../project/target/idea-test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../project">
+      <sourceFolder url="file://$MODULE_DIR$/../../project" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../project/project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="sbt: sbt-and-plugins">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

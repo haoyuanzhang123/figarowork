@@ -1,0 +1,323 @@
+sbt
+runMain Test
+import com.cra.figaro.language._
+runMain Test
+runMain HellowWorldTest
+HellowWorldTest
+run
+ss
+exit
+run
+println(util.Properties.versionString)
+run
+println("aaa"_)
+println("aaa")
+run
+runMain chap03.LearningComponent Chapter3Data/Training Chapter3Data/Labels.txt Chapter3Data/LearntModel.txt
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data/Training /Users/Haoyuan/Figaro/Chapter3Data/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data/LearntModel.txt
+println(util.Properties.versionString)runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data/Training /Users/Haoyuan/Figaro/Chapter3Data/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data/LearntModel.txt
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data/Training /Users/Haoyuan/Figaro/Chapter3Data/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data/LearntModel.txt
+> runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data/Training /Users/Haoyuan/Figaro/Chapter3Data/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data/LearntModel.txt
+> runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt
+run
+3
+> runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt
+runMain chap03.ReasoningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Test/TestEmail_3.txt  /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt
+runMain chap03.Evaluator Chapter3Data/Test Chapter3Data/Labels.txt
+Chapter3Data/LearnedModel.txt 0.5runMain chap03.Evaluator Chapter3Data/Test Chapter3Data/Labels.txt
+Chapter3Data/LearnedModel.txt 0.5> Chapter3Data/LearnedModel.txt 0.5
+> Chapter3Data/LearnedModel.txt 0.5
+runMain chap03.Evaluator Chapter3Data/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt 0.5
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt 0.5
+runMain chap03.ReasoningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Test/TestEmail_3.txt  /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearntModel.txt 0.5
+versions
+runMain chap03.Evaluator Chapter3Data/Test Chapter3Data/Labels.txt
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Test Chapter3Data20/Labels.txt
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.Evaluator > runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5/Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.tx> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5t /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test  /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.6
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+> runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.ReasoningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Test/TestEmail_3.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+runMain chap05/PrinterProblem
+runMain chap05/PrinterProblem.scala
+runMain chap05/PrinterProblem
+runMain PrinterProblem
+runMain object PrinterProblem
+runMain HelloWorldTest
+runMain chap01/HelloWorld
+runMain HelloWorldTest
+runMain Test
+runMain HelloWorldTest
+runMain runTest
+runMain chap05/PrinterProblem
+cd chap05
+package
+version
+~chap05
+~ /chap05
+~ chap05/
+runMain chap03.Evaluator /Users/Haoyuan/Figaro/Chapter3Data20/Test /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt 0.5
+runMain chap05.PrinterProblem
+runMain chap05.PrinterProblem.step1
+runMain chap05.PrinterProblem step1
+runMain chap05.ProductDistribution
+runMain chap05.ImageRecovery
+runMain chap06.CoinTosses
+runMain chap05.ImageRecovery
+runMain chap06.Hierarchical
+runMain chap06.Sales
+runMain chap07.PrinterProblemOO
+runMain chap06.Sales
+runMain chap06.CoinTosses
+runMain chap06.Sales
+runMain chap06.CoinTosses
+runMain chap06.Hierarchical
+runMain chap06.Hierarchical "010101010101010101010101010101"
+runMain chap06.Hierarchical "HTHHT H THHH HHT"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTTT"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTTT d"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTTT T"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTTT TH"
+runMain chap06.Hierarchical "HTHHT H THH"
+runMain chap06.Hierarchical "HTHHT"
+runMain chap06.Hierarchical "00001"
+runMain chap06.Hierarchical "00003"
+runMain chap06.Hierarchical "H"
+runMain chap06.Hierarchical "T"
+runMain chap06.Hierarchical "1"
+runMain chap06.Hierarchical "0"
+runMain chap06.Hierarchical "w"
+runMain chap06.Hierarchical "H"
+runMain chap06.Hierarchical "H H"
+runMain chap06.Hierarchical "HH "
+runMain chap06.Hierarchical "HH"
+runMain chap06.Hierarchical "HHT"
+runMain chap06.CoinTosses HTHHHHHHTT
+runMain chap06.CoinTosses HTHHHHHHTTTTTTTTT
+runMain chap06.CoinTosses HTHHHHHHTTTTTTTTTTTTTTTTTTTTTTT
+runMain chap06.CoinTosses HTHHHHHHTTTTTTTTTTTTTTTTTTTTTT
+runMain chap06.Hierarchical "HHT"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTTT"
+runMain chap06.Hierarchical "HTHHT H THHH HHTTTTTTTTTTTTTTTT"
+runMain chap06.Hierarchical "HTHH"
+runMain chap06.Hierarchical "HTHH "
+runMain chap06.Hierarchical "HTHH T"
+runMain chap06.Hierarchical "HTHHTT"
+runMain chap06.Hierarchical
+runMain chap06.Hierarchical "HHH"
+runMain chap06.Hierarchical "HHH" "TTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTsdda"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTsdda00000000000"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTsdda000000000000000000000000000000000"
+runMain chap06.Hierarchical "HHH" "TTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHHHHHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHHHHHHHHHHHHHHHH"
+runMain chap06.Hierarchical "HHH" "TTT" "TTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTT"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTTTTTTT"
+runMain chap06.Hierarchical "HHTT" "TTT" "TTTTTTTTTTT"
+runMain chap06.Hierarchical "HT" "TTT" "TTTTTTTTTTT"
+runMain chap06.Hierarchical "HT" "TTT" "TTTTTT"
+runMain chap06.Hierarchical "HT"
+runMain chap06.Hierarchical "HT" "TTT" "TTTTTT"
+runMain chap06.Hierarchical "HTT" "TTT" "HTT"
+runMain chap06.Hierarchical "HTT" "TTT" "HTTHHT"
+runMain chap06.Hierarchical "HTT" "TTT" "HHHHHT"
+runMain chap06.Hierarchical "HTT","TTT","HHHHHT"
+runMain chap06.Sales "A","B","C","D","E"
+runMain chap06.Sales "A" "B" "C" "D" "E"
+runMain chap06.Sales "A" "B" "C" "D" "EDD"
+runMain chap06.Sales "ADDDS" "B" "C" "D" "EDD"
+runMain chap06.Sales "AS" "B" "C" "D" "E"
+runMain chap06.Sales "A" "B" "C" "D" "EDD"
+runMain chap06.Sales "A" "B" "C"
+runMain chap06.Sales "A" "B" "CD"
+runMain chap06.Sales "AF" "B" "CD"
+runMain chap06.Sales "A"， "B" "CD"
+runMain chap06.Sales "A，D" "B" "CD"
+runMain chap06.Sales "AD" "BE" "CF"
+runMain chap06.Sales "AD" "BE" "C2"
+runMain chap06.Sales "TT" "TT" "TT"
+runMain chap06.Sales "TT" "TT" "TD"
+runMain chap06.Sales "TT" "TD" "TD"
+runMain chap06.Sales "TT" "TD" "TD"> runMain chap06.Sales "TT" "TD" "TD"
+> runMain chap06.Sales "TT" "TD" "TD"
+> runMain chap06.Sales "TT" "TD" "> runMain chap06.Sales "TT" "TD" "TD"
+runMain chap06.Hierarchical "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.HierarchicalContainers  "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap06.SalesPrediction "TT" "TF" "TF"
+runMain chap06.NewProducts
+runMain chap06.HealthProcess
+runMain chap07.PrinterProblemOO
+runMain chap07.PrinterProblemInheritance
+runMain chap07.SocialMediaBasic
+runMain chap07.SocialMediaTopicObjects
+runMain chap07.SocialMediaMultipleInterests
+runMain chap08.MarkovChain
+runMain chap08.HiddenMarkovChain
+runMain chap08.HiddenMarkovModel
+runMain chap08.DynamicBayesianNetwork
+runMain chap08.Restaurant
+runMain chap08.RestaurantMonitoring
+> runMain chap08.RestaurantMonitoring
+runMain chap08.RestaurantMonitoring
+runMain chap11.TwoVariableMCMC
+runMain chap11.ActorsAndMovies
+runMain chap12.JointDistribution
+runMain chap12.MPE
+runMain chap11.ProbabilityOfEvidence
+runMain chap12.ProbabilityOfEvidence
+runMain chap13.BayesianLearning
+runMain chap13.MAPLearning
+runMain chap13.OnlineEM
+runMain example.CarAndEngine
+runMain example.Burglary
+runMain example.MultiDecision
+cd
+inspect run
+show runtime:fullClasspath
+runMain Test
+runMain HellowWorldTest
+run Test
+runTest
+runMain Test
+run Test
+last run
+run runTest
+run HelloWorldTest
+runMain  HelloWorldTest
+runMain runTest
+runMain FiBridge
+runMain FFF
+runMain Test
+runMain runTest
+runMain  HelloWorldTest
+run HelloWorldTest
+run Test
+run
+set
+.
+run chap01.HelloWorld
+runMain  chap01.HelloWorld
+runMain  chap01.HelloWorldFigaro
+runMain  chap01.HelloWorldFigaroaa
+runMain  bridgeFigaro.HierarchicalContainers
+runMain  bridgeFigaro.HierarchicalContainers "HH" "FF"
+runMain bridgeFigaro.HierarchicalContainers "HH" "FF"
+runMain bridgeFigaro.HierarchicalContainers "HH" "FF"> runMain bridgeFigaro.HierarchicalContainers "HH" "FF"
+runMain bridgeFigaro.HierarchicalContainers "HH" "FF"
+runMain chap06.HierarchicalContainers  "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain bridgeFigaro.HierarchicalContainers  "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain bridgeFigaro.BridgeOO
+runMain chap01.HellowWorld
+runMain chap01.HelloWorld
+runMain chap06.HierarchicalContainers  "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain chap01.HelloWorld
+runMain bridgeFigaro.test
+runMain bridgeFigaro.Test
+runMain bridgeFigaro.test
+runMain bridgeFigaro.Test
+runMain bridgeFigaro.BridgeOO
+run
+runMain
+run 
+runMain chap06.HierarchicalContainers  "HHH" "TTT" "TTTTTHHHHHHHHH"
+runMain bridgeFigaro.BridgeOO
+exit
+runMain bridgeFigaro.BridgeOO
+run
+run 51
+run
+runMain bridgeFigaro.BridgeOO
+runMain chap12.JointDistribution
+runMain bridgeFigaro.BridgeOO
+runMain chap12.JointDistribution
+runMain bridgeFigaro.BridgeOO
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+e
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/Google Drive/Zhang Haoyuan/NationalBridgeInventory
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/Google Drive/Zhang Haoyuan/NationalBridgeInventory/
+runMain chap03.LearningComponent /Users/Haoyuan/Figaro/Chapter3Data20/Training /Users/Haoyuan/Figaro/Chapter3Data20/Labels.txt /Users/Haoyuan/Figaro/Chapter3Data20/LearnedModel.txt
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/Google Drive/Zhang Haoyuan/NationalBridgeInventory/
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/GoogleDrive/ZhangHaoyuan/NationalBridgeInventory/
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/GoogleDrive/RawData_AK
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/GoogleDrive/RawData_AK/Test
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/GoogleDrive/RawData_AK/Test/test.csv
+runMain bridgeFigaro.ReadCondition
+runMain bridgeFigaro.BridgeOO /Users/Haoyuan/GoogleDrive/RawData_AK/Test/test.csv
+runMain bridgeFigaro.ReadCondition
+allines[1]
+alllines
+runMain bridgeFigaro.ReadCondition
+    val parts = line.split(';').toList
+runMain bridgeFigaro.ReadCondition
+runMain bridgeFigaro.BridgeOO
+ast compile:runMain 
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.ReadCondition
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.ReadCondition
+runMain bridgeFigaro.BridgeOO
+run
+runMain BridgeOO
+runMain bridgeFigaro.BridgeOO
+run
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.test
+runMain bridgeFigaro.Test
+runMain bridgeFigaro.test
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgePRM
+runMain bridgeFigaro.BridgePRM2
+runMain bridgeFigaro.BridgePRM
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM
+runMain bridgeFigaro.BridgeOO
+runMain bridgeFigaro.BridgePRM
